@@ -31,3 +31,42 @@ body {
 	box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 }
+
+/* 2. Navbar */
+
+.navbar {
+    min-height: 100px;
+    max-height: 120px;
+} 
+.navbar-brand {
+    padding: 0 15px;
+    height: 80px;
+    line-height: 80px;
+}
+.navbar-toggle {
+    margin-top: 23px;
+    padding: 9px 10px !important;
+}
+.horizontal-linetop{
+    width: 100%;
+    background-color: #808000;
+    height: 6px;
+}
+.horizontal-line{
+    width: 100%;
+    background-color: #808000;
+    height: 1px;
+}
+.navbar-nav>li:after {
+    content: '';
+    display: block;
+    border-bottom: 5px solid transparent;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    transition: ease .25s;
+}
+.navbar-nav>li:hover:after {
+    border-bottom: 3px solid #808000;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+}
