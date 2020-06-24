@@ -1,0 +1,33 @@
+/* TABLE OF CONTENTS
+    1. Basic
+    2. Navbar
+    3. Columns
+    4. Links
+    5. Text
+    6. Buttons
+    7. Tables
+    8. Portfolio
+    9. Skills
+    10. Contact
+    11. Footer
+*/
+/* 1. Basic */
+
+html {
+	margin-right: 0!important;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	border: none;
+	font-weight: 300;
+}
+.page {
+	position: relative;
+	overflow: hidden;
+}
+* {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
