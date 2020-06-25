@@ -76,3 +76,6 @@ body {
         margin-right : 1.5em;
     }
 }
+.img-fluid{
+    border-radius: 50px;
+}
