@@ -70,3 +70,12 @@ body {
     -webkit-transform: scaleX(1);
     transform: scaleX(1);
 }
+@media (min-width: 992px){
+    .navbar li {
+        margin-left : 1em;
+        margin-right : 1.5em;
+    }
+}
+.img-fluid{
+    border-radius: 50px;
+}
