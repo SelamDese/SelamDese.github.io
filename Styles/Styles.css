@@ -91,4 +91,15 @@ body {
 .col-md-6 {
     background-color: #f5f3f3;
     padding-left: 15%;
-    }
+}
+/* 4. Links */
+
+a {
+    color: #222222;
+    font-size: larger;
+}
+a:hover {
+    color: #222222;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: unset;
+}
