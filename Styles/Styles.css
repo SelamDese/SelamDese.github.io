@@ -103,6 +103,7 @@ a:hover {
     font-family: 'Times New Roman', Times, serif;
     text-decoration: unset;
 }
+
 /* 5. Text */
 
 h1{
@@ -110,4 +111,14 @@ h1{
     color: #292929;
     font-size: 28px;
     line-height: 40px;
+}
+
+/* 6. Buttons */
+
+.btn-primary, .btn-primary:hover {
+    background-image: linear-gradient(#808000, #808000 6%, #808000);
+    background-repeat: no-repeat;
+    -webkit-filter: none;
+    filter: none;
+    border: 1px solid #555555;
 }
