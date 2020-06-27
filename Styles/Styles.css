@@ -79,3 +79,16 @@ body {
 .img-fluid{
     border-radius: 50px;
 }
+
+/* 3. Columns */
+
+.row {
+	margin: 0 -25px;
+	padding: 0 0 50px 0;
+	position: relative;
+}
+
+.col-md-6 {
+    background-color: #f5f3f3;
+    padding-left: 15%;
+    }
