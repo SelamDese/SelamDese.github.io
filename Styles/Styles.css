@@ -122,3 +122,12 @@ h1{
     filter: none;
     border: 1px solid #555555;
 }
+.btn-primary:hover {
+    color: #222222;
+    background-color:#f5f3f3;
+    border-color: #f5f3f3;
+}
+.btn:hover {
+    columns: #222222;
+    text-decoration: none;
+}
