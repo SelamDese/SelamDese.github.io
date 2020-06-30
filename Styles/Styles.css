@@ -131,3 +131,18 @@ h1{
     columns: #222222;
     text-decoration: none;
 }
+
+/* 7. Table */
+
+.column-center {
+    overflow: hidden !important;
+}
+td{
+LINE-HEIGHT:25px;
+}
+th{
+font-size: large;
+}
+tr, td{
+text-align: left;
+}
