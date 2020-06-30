@@ -150,3 +150,25 @@ text-align: left;
     background-color: #f5f3f3;
     padding-left: 15%;
 }
+
+/* 8. Portfolio */
+
+.imageadjust{
+    width: 100%;
+  }
+.imageborder{
+    width: 370px;
+    height: 250px;
+}
+.viewproject-size{
+    font-size: medium;
+}
+.space{
+    padding: 5px;
+}
+.imageborder{
+    border: 0.5px solid rgb(221, 220, 220);
+}
+.img-fluid{
+    border-radius: 50px;
+}
