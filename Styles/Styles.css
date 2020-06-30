@@ -146,3 +146,7 @@ font-size: large;
 tr, td{
 text-align: left;
 }
+.col-md-6 {
+    background-color: #f5f3f3;
+    padding-left: 15%;
+}
