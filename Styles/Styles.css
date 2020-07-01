@@ -226,3 +226,18 @@ text-align: left;
     text-indent: 0%;
     font-size: large;
 }
+
+/* 9. Skills */
+
+.skills{
+    display: inline-block;
+    padding: 2%;
+    text-indent: 100%;
+}
+.skills-indent{
+    text-indent: 5%;
+}
+.jumbotron{
+    background-color:  #FCFCFC !important;
+    text-align: center;
+}
