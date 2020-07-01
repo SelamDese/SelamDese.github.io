@@ -241,3 +241,17 @@ text-align: left;
     background-color:  #FCFCFC !important;
     text-align: center;
 }
+
+/* 10. Contact */
+.contact-icon {
+    display: inline-block;
+    padding: 3%;
+}
+.contact{
+    text-align: center;
+    padding: 5%;
+}
+.contact{
+    display: inline-block;
+    display: contents;
+}
