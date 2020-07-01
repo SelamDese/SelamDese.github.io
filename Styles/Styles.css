@@ -255,3 +255,9 @@ text-align: left;
     display: inline-block;
     display: contents;
 }
+
+/* 11. Footer */
+
+.footer{
+    text-align: center;
+}
