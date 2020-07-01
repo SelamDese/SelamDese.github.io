@@ -226,3 +226,38 @@ text-align: left;
     text-indent: 0%;
     font-size: large;
 }
+
+/* 9. Skills */
+
+.skills{
+    display: inline-block;
+    padding: 2%;
+    text-indent: 100%;
+}
+.skills-indent{
+    text-indent: 5%;
+}
+.jumbotron{
+    background-color:  #FCFCFC !important;
+    text-align: center;
+}
+
+/* 10. Contact */
+.contact-icon {
+    display: inline-block;
+    padding: 3%;
+}
+.contact{
+    text-align: center;
+    padding: 5%;
+}
+.contact{
+    display: inline-block;
+    display: contents;
+}
+
+/* 11. Footer */
+
+.footer{
+    text-align: center;
+}
